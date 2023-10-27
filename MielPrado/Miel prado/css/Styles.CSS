@@ -1,0 +1,193 @@
+body {
+    background-image: url('../img/Fondo.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.line {
+    background-color: rgb(59, 57, 57);
+    height: 50px;
+  }
+  
+.nav {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    margin-right: 200px;
+}
+  
+.nav a {
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+  
+.nav a:hover {
+    border-bottom: 5px solid red;
+}
+
+.logo {
+    color: rgb(189, 178, 178);
+    font-family: 'Jacques Francois Shadow';
+    font-size: 24px;
+    margin-right: 1000px;
+}
+
+.logotipo{
+    padding-left: 1250px;
+    padding-top: 30px;
+}
+
+.cont-ini{
+position: absolute;
+width: 614px;
+height: 78px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+color: #0A0A0A;
+margin-top: -250px;
+margin-left: 100px;
+}
+
+.title-tiend{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 48px;
+color: #1E1E1E;
+padding-left: 825px;
+padding-top: 25px;
+}
+
+.produc{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-left: 60px;
+    text-align: center;
+}
+
+.p-1 div, .p-2 div, .p-3 div, .p-4 div, .p-5 div {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    width: 300px;
+    text-align:center;
+}
+.produc-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
+    text-align: center;
+}
+.p-5 div, .p-6 div, .p-7 div, .p-8 div, .p-9 div, .p-10 div {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    width: 300px;
+    text-align: center;
+}
+
+.title-hist{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #92179C;
+    margin-top: 100px;
+}
+
+.Sub-hist{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: #820E0E;
+}
+
+.Cont-hist{
+font-family: 'Kadwa';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 60px;
+color: #FFFFFF;
+margin-top: 30px;
+}
+
+.title-conta{font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 29px;
+color: #1E1E1E;
+margin-left: 800px;
+margin-top: 30px;
+}
+
+.conta-1{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+width: 420px;
+border: 1px solid #000000;
+background-color: #ad8754 ;
+margin-left: 400px;
+margin-top: 150px;
+}
+.conta-2{font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+width: 460px;
+color: #1E1E1E;
+border: 1px solid #000000;
+background-color: #ad8754 ;
+margin-left: 1000px;
+margin-top: -160px;
+}
+.conta-3{font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    width: 460px;
+    color: #1E1E1E;
+    border: 1px solid #000000;
+    background-color: #ad8754 ;
+    margin-left: 377px;
+    margin-top: 100px;
+}
+.conta-4{font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    width: 460px;
+    color: #1E1E1E;
+    border: 1px solid #000000;
+    background-color: #ad8754 ;
+    margin-left: 1000px;
+    margin-top: -158px;
+}
